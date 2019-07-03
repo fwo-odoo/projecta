@@ -1,4 +1,0 @@
-[submodule "fwoodoo/projecta"]
-	path = fwoodoo/projecta
-	url = git@github.com:fwoodoo/projecta.git
-	branch = Prod2
